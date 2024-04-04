@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##introduction
-해위
+name : GiHyun Park
+age : 23
+
+
 
 ###contact
-hp 
 email : jsa0037@gmail.com
+
 
